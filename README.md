@@ -6,8 +6,8 @@ My name is **Arsya**, here in my github repositories you can find some repositor
 
 ### :seedling: My Contributions So Far!
 <p align="center"><a href="https://github.com/arsya371">
-![github stats](https://github-readme-stats.vercel.app/api?username=arsya371&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsya371&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arsya371&show_icons=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsya371&layout=compact"/>
 </a></p>
 
 ### :postbox: Get In Touch!
