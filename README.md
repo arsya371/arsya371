@@ -4,7 +4,7 @@
 
 My name is **Arsya**, here in my github repositories you can find some repositories that may be useful for the others.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsya371l&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arsya371&layout=compact)
 
 ### :seedling: My Contributions So Far!
 ![github stats](https://github-readme-stats.vercel.app/api?username=arsya371&show_icons=true)
