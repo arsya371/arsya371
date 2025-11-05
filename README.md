@@ -10,9 +10,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arsya371&show_icons=true&include_all_commits=false&count_private=true&theme=dark#gh-dark-mode-only"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arsya371&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
 </a>
-<br>
-<br>
-  
+</div>
+
+&nbsp;<div align="center">
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) 
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) 
 ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
@@ -27,4 +27,3 @@
 ![](https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 [![ProfileView](https://komarev.com/ghpvc/?username=arsya371&logo=GitHub&label=Profile%20View&color=336699&logoColor=white&style=flat-square)](https://github.com/arsya371)
 </div>
-
